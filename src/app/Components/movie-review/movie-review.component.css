@@ -1,0 +1,12 @@
+.movie-details {
+  padding: 20px;
+}
+
+.movie-details img {
+  border-radius: 8px;
+}
+
+.movie-details h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}

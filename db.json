@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "idProfile": 1,
+      "idMovie": 23,
+      "score": 1,
+      "description": "Muy buena pelicula\n",
+      "id": 2
+    },
+    {
+      "idProfile": 1,
+      "idMovie": 23,
+      "score": 111,
+      "description": "Malisima\n",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
